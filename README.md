@@ -16,7 +16,7 @@ Player 1 (Blue) needs to make a continuous path from top to bottom to win. Simil
 
 # Code Layout
 
-main() is implemented in `hex.cpp` It contains high-level logic for user input/output.
+`main()` is implemented in `hex.cpp` It contains high-level logic for user input/output.
 
 The files `hex_board.h` and `hex_board.cpp` contain functionality for initializing,
 evaluating status, and move-making/checking.
