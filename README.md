@@ -5,14 +5,15 @@
 # Run the program
 `./hex`
 
-# Player Selection
+## Rules
+Player 1 (Blue) needs to make a continuous path from top to bottom to win. Similarly Player 2(Red) needs to create a path from Left to Right.
+
+## Player Selection
 Enter `1` to go first, `2` otherwise
  
-# Make a Move
+## Make a Move
 To place B/R at 0,0: `0` `0`
 
-# Rules
-Player 1 (Blue) needs to make a continuous path from top to bottom to win. Similarly Player 2(Red) needs to create a path from Left to Right.
 
 # Code Layout
 
